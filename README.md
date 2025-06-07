@@ -1,29 +1,27 @@
-# 🐾 Pine City Zoo Website
+# 🧮 Scientific Calculator
 
-Welcome to the official repository for the **Pine City Zoo** website! This project brings the zoo experience online — featuring animal profiles, visitor info, interactive maps, and more!
+A clean, powerful, and responsive **scientific calculator** for math lovers, students, and everyday problem-solvers. 
 
-## 🌟 Features
-- 🦒 Responsive design for all devices  
-- 🐵 Interactive animal gallery  
-- 🐧 Visitor hours, pricing & contact info  
-- 🐅 Sleek, clean UI for a smooth user journey  
+## 🧠 Features
+- Basic operations (add, subtract, multiply, divide)  
+- Advanced functions (sin, cos, tan, log, square root)  
+- Keyboard input support  
+- Mobile-friendly interface  
 
-## 🚀 Tech Stack
-- HTML5, CSS3, JavaScript  
-- [Optional: React or other framework]  
-- Light animations & accessibility-friendly design  
+## 💻 Built With
+- HTML, CSS, JavaScript    
+- Modern UI inspired by real calculator designs  
 
-## 🎯 Goals
-- Promote wildlife awareness  
-- Provide zoo information online  
-- Support eco-tourism through tech
-
-## 🛠️ How to Use
+## 🔧 How to Run
 1. Clone this repo  
 2. Open `index.html` in your browser  
-3. Explore and enjoy the zoo vibes!  
+3. Start calculating with confidence!  
 
-## 📬 Contact
-Have feedback or ideas? Let’s connect!  
-🐾 Tuelo Joseph Ntshingane — *Web Developer & Zoo Enthusiast*  
-📧 tjntshingane@gmail.com
+## 📢 Coming Soon
+- Dark mode toggle  
+- History tracking  
+- Export results  
+
+## ✍️ Developer
+Built with precision and passion by Tuelo Joseph Ntshingane  
+Let's connect on GitHub or drop your thoughts in the Issues!
